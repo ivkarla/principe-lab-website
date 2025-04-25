@@ -5,6 +5,6 @@
 
   # ivkarla's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[ivkarla.github.io/principe-lab-website](https://ivkarla.github.io/principe-lab-website)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
