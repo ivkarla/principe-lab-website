@@ -3,8 +3,8 @@
   ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)
   ![on-schedule](../../actions/workflows/on-schedule.yaml/badge.svg)
 
-  # ivkarla's Website
+  # Principe Lab Website
 
-  Visit **[ivkarla.github.io/principe-lab-website](https://ivkarla.github.io/principe-lab-website)** 🚀
+  Visit **[principelab.github.io/principe-lab-website](https://principelab.github.io/principe-lab-website)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
